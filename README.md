@@ -5,9 +5,7 @@
 
 # Yashiro - BA
 > [!WARNING]
-> This project uses kernel-level injector and you need to disable core isolation in windows settings
-> It's need to bypass xigncode3 detection in Japanese version of the game
-> Also if you want to play games with anti-cheats (EAC, Vanguard, etc) please reboot system to unload Yashiro driver
+> This project uses kernel-level injector and you need to disable core isolation in windows settings. It's need to bypass xigncode3 detection in Japanese version of the game. Also if you want to play games with anti-cheats (EAC, Vanguard, etc) please reboot system to unload Yashiro driver
 
 <a href="https://discord.gg/2MWaYdMqb7">
   <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
