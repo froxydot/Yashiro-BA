@@ -54,6 +54,9 @@ Tested on Win11 25h2
 
 ## Showcases
 
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/2038dd08-afc3-4428-98b8-d8df3330d278" />
+
+
 - https://www.youtube.com/watch?v=7vP-7QmcZzs
 
 ---
